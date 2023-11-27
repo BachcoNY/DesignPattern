@@ -1,7 +1,7 @@
-package Creational.AbstractFactoryPattern;
+package CreationalPattern.AbstractFactoryPattern;
 
-import Creational.AbstractFactoryPattern.Chair.Chair;
-import Creational.AbstractFactoryPattern.Table.Table;
+import CreationalPattern.AbstractFactoryPattern.Chair.Chair;
+import CreationalPattern.AbstractFactoryPattern.Table.Table;
 
 public class Client {
  

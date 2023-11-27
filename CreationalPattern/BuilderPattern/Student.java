@@ -1,4 +1,4 @@
-package Creational.BuilderPattern;
+package CreationalPattern.BuilderPattern;
 
 // Product 
 public class Student {

@@ -1,4 +1,4 @@
-package Creational.BuilderPattern;
+package CreationalPattern.BuilderPattern;
 
 // ConcreteBuilder
 public class StudentConcreteBuilder implements StudentBuilder {

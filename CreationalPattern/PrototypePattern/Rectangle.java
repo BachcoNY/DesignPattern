@@ -1,4 +1,4 @@
-package Creational.PrototypePattern;
+package CreationalPattern.PrototypePattern;
 
 public class Rectangle extends Shape {
 

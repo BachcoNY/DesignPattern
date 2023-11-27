@@ -1,9 +1,9 @@
-package Creational.AbstractFactoryPattern;
+package CreationalPattern.AbstractFactoryPattern;
 
-import Creational.AbstractFactoryPattern.Chair.Chair;
-import Creational.AbstractFactoryPattern.Chair.WoodChair;
-import Creational.AbstractFactoryPattern.Table.Table;
-import Creational.AbstractFactoryPattern.Table.WoodTable;
+import CreationalPattern.AbstractFactoryPattern.Chair.Chair;
+import CreationalPattern.AbstractFactoryPattern.Chair.WoodChair;
+import CreationalPattern.AbstractFactoryPattern.Table.Table;
+import CreationalPattern.AbstractFactoryPattern.Table.WoodTable;
 
 public class WoodFactory extends FurnitureAbstractFactory {
  

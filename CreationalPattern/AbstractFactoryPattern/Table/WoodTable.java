@@ -1,4 +1,4 @@
-package Creational.AbstractFactoryPattern.Table;
+package CreationalPattern.AbstractFactoryPattern.Table;
 
 public class WoodTable implements Table {
     @Override

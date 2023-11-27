@@ -1,4 +1,4 @@
-package Creational.BuilderPattern;
+package CreationalPattern.BuilderPattern;
 
 // Builder 
 public interface StudentBuilder {

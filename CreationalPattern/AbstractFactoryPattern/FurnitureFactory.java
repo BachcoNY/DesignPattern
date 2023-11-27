@@ -1,4 +1,4 @@
-package Creational.AbstractFactoryPattern;
+package CreationalPattern.AbstractFactoryPattern;
 
 public class FurnitureFactory {
  

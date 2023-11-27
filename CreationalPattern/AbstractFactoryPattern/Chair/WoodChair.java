@@ -1,4 +1,4 @@
-package Creational.AbstractFactoryPattern.Chair;
+package CreationalPattern.AbstractFactoryPattern.Chair;
 
 public class WoodChair implements Chair {
     @Override

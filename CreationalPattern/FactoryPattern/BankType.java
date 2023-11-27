@@ -1,4 +1,4 @@
-package Creational.FactoryPattern;
+package CreationalPattern.FactoryPattern;
 
 public enum BankType {
 

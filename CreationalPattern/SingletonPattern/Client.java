@@ -1,4 +1,4 @@
-package Creational.SingletonPattern;
+package CreationalPattern.SingletonPattern;
 
 public class Client {
     public static void main(String[] args) {
